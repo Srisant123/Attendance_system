@@ -91,10 +91,7 @@ Advance-Attendance-System/
 
 ## 🧑‍💻 Author
 
-**MOHAMMED ZAID AHMED**
-[![GitHub](https://img.shields.io/badge/GitHub-Zaid2044-181717?style=flat\&logo=github)](https://github.com/Zaid2044)
-
----
+NAVELE NEEHAR & OGIRALA SRISANTH
 
 ## 🪪 License
 
